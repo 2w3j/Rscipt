@@ -1,7 +1,7 @@
 # Rscript
-making functions
+## 여러가지 스크립트 함수에 대해서 고민,저장,관리
 
-1. DATAGENERATOR.R
+1. DATA_GENERATOR.R
  - 사용마다 발생하는 이벤트 시계열 데이터 및 프로파일 데이터
   1) 시계열 데이터의 생성에 대한 부분
   2) 프로파일 정보에 대한 현실적인 반영( 항상 정규 분포가 아닌 skewness 반영 )
